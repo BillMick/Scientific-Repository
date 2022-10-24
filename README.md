@@ -1,2 +1,3 @@
-# Systemes-et-Technologies-radio-mobile
-Un recueil de rédactions scientifiques sur les systèmes et technologies radio mobile
+# Scientific-Repository
+Un recueil de rédactions scientifiques sur des thèmes diverses 
+ayant trait aux Réseaux et Télécommunications.
